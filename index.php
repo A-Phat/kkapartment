@@ -8,6 +8,7 @@
       <div class="container">
           <?php include ("template/navbar.php")?>
           <h1>Hello, world!</h1>
+<p> ประเทศไทยใครก็ได้ ร่างกายอยากปะทะ </p>
       </div>
     <?php include ("template/footer.php")?>
 
